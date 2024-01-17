@@ -5,9 +5,10 @@ Coding Architect for Cloud, IoT & SaaS Solutions
 ------------------------------------------------
 
 * 🌍  I'm based in Marktoberdorf, Germany
-* 🖥️  See my portfolio at [Handmade Systems](http://handmade-systems.de)
+* 🖥️  See my portfolio at [Handmade Systems](https://handmade-systems.de)
 * ✉️  You can contact me at [mk@handmade-systems.de](mailto:mk@handmade-systems.de)
-* 🚀  I'm currently working on [Invoice-Fish - API for invoice creation](http://invoicefish.io)
+* 🚀  I'm currently working on [CrewClickr - a plattform for AI Agents](https://crewclickr.com)
+* 🚀  I'm also writing a book [DeveloperLaunch](https://developer-launch.com)
 
 <a href="https://www.github.com/mariuszkogut" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mariuszkogut?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a><a href="https://www.twitter.com/mariuszkogut" target="_blank" rel="noreferrer"><img
